@@ -124,7 +124,7 @@ export default function Footer() {
 
         {/* Bottom Copyright Section */}
         <div className="pt-8 border-t border-gray-700/60 text-center flex flex-col md:flex-row justify-center items-center gap-2 text-xs text-gray-500">
-          <p>Copyright © 2026 Gansu Longchang Petrochemical Group Co., Ltd. All Rights Reserved.</p>
+          <p>Copyright © 2026 Fenghe Tai (Hainan Special Economic Zone) Import and Export Trading Co., Ltd. All Rights Reserved.</p>
           <span className="hidden md:inline">|</span>
           <div className="flex gap-2">
             <Link href="/sitemap" className="hover:text-gray-300 transition-colors">Sitemap</Link>
