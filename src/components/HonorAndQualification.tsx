@@ -5,11 +5,11 @@ import Image from "next/image";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 
 const honors = [
-  "/bj/17-640-640.jpg",
-  "/bj/13-640-640.jpg",
-  "/bj/14-640-640.jpg",
-  "/bj/15-640-640.jpg",
-  "/bj/16-640-640.jpg",
+  "/about/4-640-640.jpg",
+  "/about/5-640-640.jpg",
+  "/about/6-640-640.jpg",
+  "/about/7-640-640.jpg",
+  "/about/9-640-640.jpg",
 ];
 
 export default function HonorAndQualification() {
