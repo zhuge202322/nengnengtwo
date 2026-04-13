@@ -246,15 +246,9 @@ export default function ProductDetailPage() {
 
             {/* Social Share Icons */}
             <div className="flex items-center gap-2">
-              <div className="w-6 h-6 bg-[#3b5998] rounded-sm flex justify-center items-center text-white cursor-pointer hover:opacity-80 font-bold text-xs">f</div>
-              <div className="w-6 h-6 bg-black rounded-sm flex justify-center items-center text-white cursor-pointer hover:opacity-80 font-bold text-xs">X</div>
-              <div className="w-6 h-6 bg-[#25D366] rounded-sm flex justify-center items-center text-white font-bold text-xs cursor-pointer hover:opacity-80">W</div>
-              <div className="w-6 h-6 bg-[#0077b5] rounded-sm flex justify-center items-center text-white cursor-pointer hover:opacity-80 font-bold text-xs">in</div>
-              <div className="w-6 h-6 bg-[#bd081c] rounded-sm flex justify-center items-center text-white font-bold text-xs cursor-pointer hover:opacity-80">P</div>
-              <div className="w-6 h-6 bg-[#00e676] rounded-sm flex justify-center items-center text-white font-bold text-xs cursor-pointer hover:opacity-80">We</div>
-              <div className="w-6 h-6 bg-[#8bc34a] rounded-sm flex justify-center items-center text-white cursor-pointer hover:opacity-80">
-                <Share2 size={12} />
-              </div>
+              <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer" className="w-6 h-6 bg-[#0077b5] rounded-sm flex justify-center items-center text-white cursor-pointer hover:opacity-80 font-bold text-xs">
+                in
+              </a>
             </div>
           </div>
         </div>
