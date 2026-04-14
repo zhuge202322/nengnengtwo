@@ -69,8 +69,8 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <Mail className="w-4 h-4 text-orange-500 mt-1 flex-shrink-0" />
                 <div className="flex flex-col gap-1">
+                  <a href="mailto:plas@fenghetai.cn" className="text-sm hover:text-white transition-colors">plas@fenghetai.cn</a>
                   <a href="mailto:gswiftop@gmail.com" className="text-sm hover:text-white transition-colors">gswiftop@gmail.com</a>
-                  <a href="mailto:fenghetai22@gmail.com" className="text-sm hover:text-white transition-colors">fenghetai22@gmail.com</a>
                 </div>
               </li>
               <li className="flex items-start gap-3">
@@ -112,7 +112,7 @@ export default function Footer() {
 
         {/* Bottom Copyright Section */}
         <div className="pt-8 border-t border-gray-700/60 text-center flex flex-col md:flex-row justify-center items-center gap-2 text-xs text-gray-500">
-          <p>Copyright © 2026 Qing Long Petrochemical All Rights Reserved.</p>
+          <p>Copyright © 2026 GuangLong Petrochemical All Rights Reserved.</p>
           <span className="hidden md:inline">|</span>
           <div className="flex gap-2">
             <Link href="/sitemap" className="hover:text-gray-300 transition-colors">Sitemap</Link>

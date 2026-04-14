@@ -36,7 +36,7 @@ export default function AboutPage() {
           <div className="w-full lg:w-[45%] relative aspect-[4/3] bg-gray-100 flex-shrink-0 group overflow-hidden">
             <Image 
               src="/about/10.jpg"
-              alt="Qing Long Petrochemical" 
+              alt="GuangLong Petrochemical" 
               fill
               className="object-cover group-hover:scale-105 transition-transform duration-700"
             />
@@ -44,7 +44,7 @@ export default function AboutPage() {
           <div className="w-full lg:w-[55%] flex flex-col justify-center">
             <h1 className="text-3xl md:text-[34px] font-bold text-slate-900 mb-6">Company Profile</h1>
             <p className="text-gray-600 text-sm md:text-[15px] leading-[1.8] mb-6">
-              <strong className="text-slate-800 font-semibold">Qing Long Petrochemical</strong> has built a leading position in international petrochemical trading and logistics supply solutions. The company was incorporated in later of 1990s. The headquarter of Group is located in Room 2705, 27/F, China Resources Building, 26 Harbour Road, Wanchai, Hong Kong, and has 13 subsidiaries located across different parts of China, including Shanghai, Wuhan, Chengdu, Chongqing, Yuncheng, Xi'an, Liaoning etc.
+              <strong className="text-slate-800 font-semibold">GuangLong Petrochemical</strong> has built a leading position in international petrochemical trading and logistics supply solutions. The company was incorporated in later of 1990s. The headquarter of Group is located in Room 2705, 27/F, China Resources Building, 26 Harbour Road, Wanchai, Hong Kong, and has 13 subsidiaries located across different parts of China, including Shanghai, Wuhan, Chengdu, Chongqing, Yuncheng, Xi'an, Liaoning etc.
             </p>
             <p className="text-gray-600 text-sm md:text-[15px] leading-[1.8]">
               We have maintained our principles-to add value to our customers and provide <strong className="text-slate-800 font-semibold">service</strong> in all aspects of our business. We offer a unique combination of market knowledge, logistics supply chain and an absolute commitment to customer and supplier partnerships. Our specialist logistical experience and expert market knowledge are applied to the benefit of our trading partners. We are level 1 sales representatives for world-leading oil and petrochemical company, including Sinopec, PetroChina, Shell, Shenhua Group, etc. We serve a diverse range of industries including of oil, gas, petrochemicals, rubber, plastics, medicine, packaging and food <strong className="text-slate-800 font-semibold">industry</strong>. We provide a complete service, from sourcing and acquiring products to transporting and delivering them.

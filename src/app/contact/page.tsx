@@ -93,11 +93,11 @@ export default function ContactPage() {
                 <div className="w-6 h-6 bg-[#e88828] rounded-sm flex items-center justify-center flex-shrink-0 mt-0.5">
                   <Mail size={13} className="text-white" strokeWidth={2.5} />
                 </div>
-                <div className="flex items-center gap-2 flex-wrap">
+                <div className="flex items-center gap-2">
                   <span className="text-sm font-bold italic text-slate-800">Email:</span>
-                  <a href="mailto:gswiftop@gmail.com" className="text-[15px] text-gray-600 hover:text-[#e88828] transition-colors italic">gswiftop@gmail.com</a>
+                  <a href="mailto:plas@fenghetai.cn" className="text-[15px] text-gray-600 hover:text-[#e88828] transition-colors italic">plas@fenghetai.cn</a>
                   <span className="text-gray-400">/</span>
-                  <a href="mailto:fenghetai22@gmail.com" className="text-[15px] text-gray-600 hover:text-[#e88828] transition-colors italic">fenghetai22@gmail.com</a>
+                  <a href="mailto:gswiftop@gmail.com" className="text-[15px] text-gray-600 hover:text-[#e88828] transition-colors italic">gswiftop@gmail.com</a>
                 </div>
               </li>
             </ul>
