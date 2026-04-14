@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Longchang Petrochemical",
+  title: "Hong Kong Guanglong Group Co., Ltd.",
   description: "Chemical foreign trade website",
 };
 
