@@ -9,7 +9,7 @@ export default function WhyChooseUs() {
       <div className="absolute inset-0 z-0">
         <Image
           src="/bj/banner1.jpg"
-          alt="Fenghe Tai (Hainan Special Economic Zone) Import and Export Trading Co., Ltd. Background"
+          alt="Qing Long Petrochemical Background"
           fill
           className="object-cover"
           sizes="100vw"
@@ -29,7 +29,7 @@ export default function WhyChooseUs() {
 
           <div className="space-y-6 text-gray-200 text-sm md:text-base leading-[1.8] md:leading-loose">
             <p>
-              <strong className="text-white font-semibold">Fenghe Tai (Hainan Special Economic Zone) Import and Export Trading Co., Ltd.</strong> has built a leading position in international petrochemical trading and logistics supply solutions. The company was incorporated in later of 1996s. The headquarter of Group is located in GANSU, China, and has 13 subsidiaries located across different parts of China, including Shanghai, Wuhan, Chengdu, Chongqing, Yuncheng, Xi&apos;an, Liaoning etc.
+              <strong className="text-white font-semibold">Qing Long Petrochemical</strong> has built a leading position in international petrochemical trading and logistics supply solutions. The company was incorporated in later of 1996s. The headquarter of Group is located in Room 2705, 27/F, China Resources Building, 26 Harbour Road, Wanchai, Hong Kong, and has 13 subsidiaries located across different parts of China, including Shanghai, Wuhan, Chengdu, Chongqing, Yuncheng, Xi&apos;an, Liaoning etc.
             </p>
             <p>
               We have maintained our principles-to add value to our customers and provide <strong className="text-white font-semibold">service</strong> in all aspects of our business. We offer a unique combination of market knowledge, logistics supply chain and an absolute commitment to customer and supplier partnerships. We are level 1 sales representatives for world-leading oil and petrochemical company, including Sinopec, PetroChina, Shell, Shenhua Group, etc.

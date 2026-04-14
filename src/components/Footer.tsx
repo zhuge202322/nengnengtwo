@@ -76,7 +76,7 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 text-orange-500 mt-1 flex-shrink-0" />
                 <span className="text-sm leading-relaxed">
-                  No. 81, Qiongshan Avenue, Jiangdong New Area, Haikou City, Hainan Province
+                  Room 2705, 27/F, China Resources Building, 26 Harbour Road, Wanchai, Hong Kong
                 </span>
               </li>
             </ul>
@@ -112,8 +112,7 @@ export default function Footer() {
 
         {/* Bottom Copyright Section */}
         <div className="pt-8 border-t border-gray-700/60 text-center flex flex-col md:flex-row justify-center items-center gap-2 text-xs text-gray-500">
-          <p>Copyright 2026 Fenghe Tai (Hainan Special Economic Zone) Import and Export Trading Co., Ltd. All Rights Reserved.</p>
-          <p>Copyright © 2026 Fenghe Tai (Hainan Special Economic Zone) Import and Export Trading Co., Ltd. All Rights Reserved.</p>
+          <p>Copyright © 2026 Qing Long Petrochemical All Rights Reserved.</p>
           <span className="hidden md:inline">|</span>
           <div className="flex gap-2">
             <Link href="/sitemap" className="hover:text-gray-300 transition-colors">Sitemap</Link>
